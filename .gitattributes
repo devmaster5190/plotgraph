@@ -1,4 +1,4 @@
 # core.autocrlf
 * text=auto
 
-*.js linguist-language=JavaScript
+*.py linguist-language=Python
